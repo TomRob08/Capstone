@@ -1,0 +1,12 @@
+html, body {
+    height: 100%;
+    overflow: hidden;
+}
+
+div {
+    height: 100%;
+}
+
+a {
+    height: 100%
+}

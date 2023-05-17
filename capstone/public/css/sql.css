@@ -1,0 +1,21 @@
+h5 {
+    text-align: center;
+    color: white;
+}
+
+img {
+    height: 400px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+label {
+    color: white;
+    font-weight: bold;
+}
+
+th, td {
+    color: white;
+}
